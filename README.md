@@ -58,9 +58,6 @@ TeTo uses data from:
 
 - [Consumet API](https://api.consumet.org) 
 - [Anilist API](https://anilist.gitbook.io/anilist-apiv2-docs/) – Provides anime metadata.
+- [Animixplay](https://animixplay.pw/)
 - [Aniwatch API](https://github.com/ghoshRitesh12/aniwatch-api)
-
-## 📜 License
-
-This project is open-source and available under the **[MIT License](https://github.com/Kochou11/TeTo/blob/main/LICENSE)**.
 
