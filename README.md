@@ -11,17 +11,17 @@
   </a>
 </p>
 
-# <p align="center">TeTo:territory</p>
+# <p align="center">TeTo:territory Animixplay</p>
          
 <div align="center">
 
-Welcome to **TeTo**, an ad-free anime streaming site with a modern UI. Built using **HTML, CSS, and JavaScript**, it offers a seamless experience for watching and discovering anime.
+Welcome to **TeTo**, an ad-free anime streaming animixplay site with a modern UI. Built using **HTML, CSS, and JavaScript**, it offers a seamless experience for watching and discovering anime.
 
 </div>
 
 > [!IMPORTANT]
 >
-> 1. The content that TeTo provides is not ours, nor is it hosted by us. These belong to their respective owners. TeTo does not host any media files. We provide links to content available on third-party platforms.
+> 1. The content that TeTo provides is not ours, nor is it hosted by us. These belong to their respective owners. Animixplay does not host any media files. We provide links to content available on third-party platforms.
 
 
 
